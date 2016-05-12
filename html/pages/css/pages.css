@@ -793,7 +793,7 @@ body.rtl [class*="col-"] {
   margin-top: 0px;
   padding: 0px;
   overflow: auto;
-  margin-left: 250px;
+  /*margin-left: 250px;*/
   min-height: 100%;
 }
 /* Quick View 
@@ -8937,7 +8937,7 @@ input.list-view-search {
 }
 .split-view .split-details .email-content-wrapper .email-content {
   margin: 0 auto;
-  width: 600px;
+  /*width: 600px;*/
   display: block;
   padding-top: 62px;
   padding-bottom: 70px;
